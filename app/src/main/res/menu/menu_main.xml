@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_settings"
+        android:title="Settings"
+        android:visible="true" />
+    <item
+        android:id="@+id/action_newgame"
+        android:enabled="true"
+        android:title="New Game"
+        android:visible="true" />
+    <item
+        android:id="@+id/action_gamestats"
+        android:checkable="false"
+        android:enabled="true"
+        android:title="Game Stats"
+        android:visible="true" />
+    <item
+        android:id="@+id/action_about"
+        android:checkable="false"
+        android:enabled="true"
+        android:title="About"
+        android:visible="true" />
+</menu>
+
+
